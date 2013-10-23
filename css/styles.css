@@ -1,0 +1,72 @@
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,900);
+@import url(http://fonts.googleapis.com/css?family=Arvo:400,700);
+
+body {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight: 300;
+	background: url('../img/square_bg.png') repeat;
+	height: 100%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family:'Arvo', serif;
+	font-weight: 400;
+	text-transform: none;	
+}
+* {
+  margin: 0;
+}
+html {
+  height: 100%;
+}
+
+#page-header {
+	padding: 2em 0 0.5em;
+}
+
+#page-header a h1 {
+	font-size: 1em;
+}
+.page-wrap {
+  min-height: 100%;
+  /* equal to footer height */
+  margin-bottom: -142px; 
+}
+.page-wrap:after {
+  content: "";
+  display: block;
+}
+.footer, .page-wrap:after {
+  /* .push must be the same height as footer */
+  height: 142px; 
+}
+
+.slider-item {
+	width: 970px;
+	height: 310px;
+}
+ul {
+	margin-left: 30px;
+}
+.has-tip.link a{
+font-weight: normal; 
+text-decoration: none;
+border-bottom: 0px solid transparent;
+}
+.tooltip{
+font-weight: normal; 
+text-decoration: none;
+background: white;
+color: black;
+border: 1px solid #6f6f6f;
+max-width: 340px;
+line-height: 1.4em;
+}
+.has-tip{
+	border-bottom: 0px;
+	cursor: pointer;
+}
+.has-tip:hover, .has-tip:focus {
+    border-bottom: dotted 0px #196177;
+    color: #2ba6cb; 
+}
