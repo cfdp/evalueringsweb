@@ -24,7 +24,7 @@
 						Nørregade 60, 2. sal <br>
 						5000 Odense <br>
 						Telefon: 6611 1737 <br>
-						Mail: <a href="mailto:samtalegrupper@ungdommens-vel.dk<" target="_top">samtalegrupper@ungdommens-vel.dk</a>
+						Mail: <a href="mailto:samtalegrupper@ungdommens-vel.dk" target="_top">samtalegrupper@ungdommens-vel.dk</a>
 					</p>
 					</li>
 						<li>
