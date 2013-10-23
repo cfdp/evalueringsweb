@@ -114,8 +114,8 @@
 					<blockquote>
 					”... og så en glad dag i maj gav Helsefonden de første penge - i maj 1999, og senere gav Odense kommune og Fyns Amt ...” <cite>En projektansvarlig</cite>
 					</blockquote>
-				</div> <!-- end this column12 --> 
-			</div> <!-- end this tidslinie row -->
+				</div> <!-- end this ^ column12 --> 
+			</div> <!-- end this ^ tidslinie row -->
 		</div>
 	</div>
 <?php 
