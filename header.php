@@ -19,18 +19,18 @@
 
 	<!-- Header med logo og navigation -->
 	<div id="page-header" class="row">
-		<div class="large-2 columns">
-			<a href="http://evuv.cybhus.dk"><h1>Evalueringsweb</h1></a>
+		<div class="large-3 columns">
+			<a href="http://evuv.cybhus.dk"><img src="img/logo.png"><!-- <h1>Evalueringsweb</h1> --></a>
 		</div>
-		<div class="large-10 columns">
+		<div class="large-9 columns">
 			<ul class="right inline-list">
-				<li><a href="samtale.php" class="small ">Historik</a></li>
-				<li><a href="kvaliteter.php" class="small ">Kvaliteter</a></li>
-				<li><a href="udfordringer.php" class="small ">Udfordringer</a></li>
-				<li><a href="goderaade.php" class="small ">Gode Råd</a></li>
-				<li><a href="fremtidssikring.php" class="small ">Fremtidssikring</a></li>
-				<li><a href="links.php" class="small ">Relevante Link</a></li>
-				<li><a href="kontakt.php" class="small ">Kontakt</a></li>
+				<li><a href="baggrund.php">Baggrund</a></li>
+				<li><a href="kvaliteter.php">Kvaliteter</a></li>
+				<li><a href="udfordringer.php">Udfordringer</a></li>
+				<li><a href="goderaade.php">Gode Råd</a></li>
+				<li><a href="fremtidssikring.php">Fremtidssikring</a></li>
+				<li><a href="links.php">Relevante Link</a></li>
+				<li><a href="kontakt.php">Kontakt</a></li>
 			</ul>
 		</div>
 	</div>

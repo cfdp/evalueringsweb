@@ -23,7 +23,7 @@
         <ul class="large-block-grid-2">
           <li>
             <img src="img/paintings.jpg"><br>
-            <cite>I samtalegrupperne bliver der bl.a. arbejdet med tegneterapi og omsorg for hverandre i gruppen.</cite>
+            <cite id="ptext">I samtalegrupperne bliver der bl.a. arbejdet med tegneterapi og omsorg for hverandre i gruppen.</cite>
           </li>       
             <li>
               <img src="img/list.jpg"><br>
@@ -72,7 +72,7 @@
    			<p class="title" data-section-title><a href="#panel2">Samarbejde</a></p>
     		<div class="content" data-section-content>
       		
-      			<h5 class="subheader">-at etablere et samarbejde mellem flere samtalegrupper uden et fælles værdi- og arbejdsgrundlag</h5>
+      			<h5 class="subheader">-at etablere et samarbejde mellem flere samtalegrupper uden et fælles metode og arbejdsgrundlag</h5>
 
       			<p>De projektansvarlige i Odense synes samstemmende, at det var svært at koble flere selvstændige projekter sammen, og at det resulterede i et svagt samarbejde og manglende fællesskab på tværs af landet:
       			<blockquote>

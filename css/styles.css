@@ -20,6 +20,11 @@ html {
   height: 100%;
 }
 
+#ptext{
+font-weight:lighter;
+font-size: 14px;
+}
+
 #page-header {
 	padding: 2em 0 0.5em;
 }
@@ -45,14 +50,46 @@ html {
 	width: 970px;
 	height: 310px;
 }
+
 ul {
+	font-weight: normal;
 	margin-left: 30px;
 }
-.has-tip.link a{
-font-weight: normal; 
-text-decoration: none;
-border-bottom: 0px solid transparent;
+
+.section-container.auto > section > .title, .section-container.auto > .section > .title
+{
+	font-family: 'arvo';
+	background-color: #DFF2F7;
+	cursor:pointer;
+	border: solid 1px;
+	border-color: #c1dde6;
 }
+
+.section-container.auto > section > .title a, .section-container.auto > .section > .title a
+{
+	padding: 0.9374em;
+	color: #333333;
+	font-size: 0.875em;
+	background: none;
+}
+
+.section-container.auto > section > .title:hover, .section-container.auto > .section > .title:hover
+{
+	background-color: #c1dde6;
+}
+.section-container.auto > section > .content, .section-container.auto > .section > .content
+{
+border: solid  1px;
+border-color: #c1dde6;
+}
+
+
+.has-tip.link a{
+	font-weight: normal; 
+	text-decoration: none;
+	border-bottom: 0px solid transparent;
+}
+
 .tooltip{
 font-weight: normal; 
 text-decoration: none;

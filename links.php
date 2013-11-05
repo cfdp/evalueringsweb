@@ -10,7 +10,7 @@
 				<h5 class="subheader">
 				<p>Samtalegrupperne i Odense har selv indsamlet en del baggrundsmateriale og udarbejdet informationsmateriale om deres aktiviteter i samtalegrupperne.</p>
 			</h5>
-			<ul class="large-block-grid-3">
+			<ul class="large-block-grid-2">
 			<li>
 				<span data-tooltip class="has-tip link" title=" Hvis man vil underrette om et udsat barn. "><a href="http://ankestyrelsen.dk/artikler/default.asp?page=631" target="blank">Ankestyrelsen</a></span>
 			</li>
@@ -81,7 +81,7 @@
 			</li>
 			
 			<li>
-				<span data-tooltip class="has-tip link" title="Er koncentreret inden for områderne Mobning og Trivsel, Vold i Hjemmet og Ensomhed." ><a href="http://www.maryfonden.dk/"target="blank">Mary Fonden</a></span>
+				<span data-tooltip class="has-tip link" title="Studenterrådgivningen tilbyder gratis rådgivning og behandling til studerende på de lange videregående uddannelser og studerende på uddannelser på professionsbachelorniveau." ><a href="http://www.srg.dk/"target="blank">Studenterrådivning</a></span>
 			</li>
 
 			<li>
@@ -182,7 +182,7 @@
 
 			<li><p>Nielsen, Jan & Per Sørensen (red.). 2013. ”<em>Brug gruppen - psykoterapeutisk gruppeterapi".</em> Hans Reitzels Forlag.</p></li>
 
-			<li><p>Socialt Udviklingscenter SUS. 1998-2013. Film, børnebøger, undervisningsmateriale, undersøgelser og evalueringer om udsatte børn og unge på: http://www.sus.dk/udgivelser/?tema=udsatte-born-og-unge </p></li>
+			<li><p>Socialt Udviklingscenter SUS. 1998-2013. Film, børnebøger, undervisningsmateriale, undersøgelser og evalueringer om udsatte børn og unge på: <a href="http://www.sus.dk/udgivelser/?tema=udsatte-born-og-unge" target="blank">http://www.sus.dk/udgivelser/?tema=udsatte-born-og-unge</a> </p></li>
 
 			<li><p>Stæhr, Joan. 2006. <em>”Idékatalog - aktiviteter til brug for børnegrupper for børn med psykisk syge forældre”.</em> PsykInfo Forlag. </p></li>
 

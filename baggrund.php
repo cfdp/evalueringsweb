@@ -8,21 +8,22 @@
 		<div class="large-12 columns">
 			<h2>Historik for Samtalegrupper</h2>
 			<h3 class="subheader">Et pusterum for udsatte unge</h3>
-			<p>
-				’Samtalegrupper for unge’ i Odense er en selvejende institution med en historie, der løber tilbage til 1994. Siden 2001 har den været optaget i Landsforeningen ’Ungdommens Vel’. Fra 2010 til 2012 samarbejdede samtalegrupperne i Odense med samtalegrupper i København og på Frederiksberg. Da samtalegrupperne i hovedstaden er lukket, er der på denne side fokus på samtalegrupperne i Odense. De bor til leje i Ungdomshuset i det centrale Odense. Sekretariatet består af en deltidsansat leder og en projektleder. Projektlederen er samtidig gruppeleder af nogle af samtalegrupperne. For tiden er der tilknyttet 23 frivillige gruppeledere til samtalegrupperne. Tilbuddet er støttet økonomisk af Odense kommune, Satspuljemidler, fonde og legater. Ledelsen varetages overordnet af en bestyrelse.
-			</p>
 				<ul class="large-block-grid-2">
 					<li>
 						<img src="img/vaeg.jpg"><br>
-						<cite>Indgangspartiet til samtalegrupperne i Ungdomshuset i Odense</cite>
+						<cite id="ptext">Indgangspartiet til samtalegrupperne i Ungdomshuset i Odense</cite>
 					</li>				
   					<li>
   						<img src="img/vaerelse.jpg"><br>
-  						<cite>Samtalegruppernes lokale i Odense</cite>
+  						<cite id="ptext">Samtalegruppernes lokale i Odense</cite>
   					</li>
   			
   				</ul>
-		</div> <!-- end this large-5 column -->
+			<p>
+				’Samtalegrupper for unge’ i Odense er en selvejende institution med en historie, der løber tilbage til 1999. Siden 2001 har den været optaget i Landsforeningen ’Ungdommens Vel’. Fra 2010 til 2012 samarbejdede samtalegrupperne i Odense med samtalegrupper i København og på Frederiksberg. Da samtalegrupperne i hovedstaden er lukket, er der på denne side fokus på samtalegrupperne i Odense. De bor til leje i Ungdomshuset i det centrale Odense. Sekretariatet består af en deltidsansat leder og en projektleder. Projektlederen er samtidig gruppeleder af nogle af samtalegrupperne. For tiden er der tilknyttet 23 frivillige gruppeledere til samtalegrupperne. Tilbuddet er støttet økonomisk af Odense kommune, Satspuljemidler, fonde og legater. Ledelsen varetages overordnet af en bestyrelse.
+			</p>
+			
+		</div> <!-- end this large-12 ^ column -->
 
 		<div class="large-12 columns">
 			<div class="section-container auto" data-section="auto">
@@ -34,14 +35,14 @@
 							<blockquote>”Hvert barn og ung er et unikt menneske, som har krav på at få netop dén kærlighed, omsorg, opmærksomhed, kontakt, opdragelse, kontinuitet, stabilitet og behandling, der er afgørende for personlig udfoldelse, udvikling og sundhed” <cite>Årsberetning 2012</cite></blockquote>
 							</p> 
 							<h6>Formålet med samtalegrupperne er:</h6>
-							<ul class="circle"> 
-								<li>De unge får bedre selvværd og livsglæde</li>
-								<li>De unge får bearbejdet omsorgssvigt og overgreb</li>
-								<li>De unge bliver bedre til at håndtere uddannelse/arbejde</li>
-								<li>De unge får redskaber til at modvirke livstruende adfærd.</li>
+							<ul class="circle">
+								<li>At forebygge og afhjælpe personlige og sociale følger af ensomhed og isolation hos fynske unge primært i alderen 13-25 år.</li>
+								<li>At give de unge hjælp til selvhjælp i en personlig udviklingsproces frem mod større selvaccept og netværk.
+								</li>
+								<li>At udgøre en henvisningsmulighed for voksne, der i deres arbejde og hverdag støder på unge med ensomheds- og identitetsproblemer.</li>
 							</ul>
 
-							<h6>Målgruppen er unge af begge køn i alderen 12-30 år, der:</h6>
+							<h6>Målgruppen er unge af begge køn i alderen 13-25 år, der:</h6>
 							<ul class="circle">
 								<li>Føler sig ensomme, depressive og isolerede</li>
 								<li>Har manglende selvværd</li>
@@ -66,14 +67,14 @@
 						</div>
 					</section>
 					<section>
-						<p class="title" data-section-title><a href="#">Terapi</a></p>
+						<p class="title" data-section-title><a href="#">Tilbudene til de unge</a></p>
 						<div class="content" data-section-content>
 							<h5 class="subheader">Gruppesamtaler med terapeutisk effekt</h5>
 							<blockquote>”Mødet med rummende, autentiske voksne har en helende effekt” <cite>en projektansvarlig</cite></blockquote> 
 							<p>Fra ledelsens side lægges der vægt på, at samtalegrupperne ikke som sådan er terapi. Men i og med, at de arbejder relations- og motivationspædagogisk, så har samtalerne alligevel en terapeutisk effekt.
 							</p>
 
-							<h6>Tilbuddene til de unge er helt konkret:</h6> 
+							<h6>Tilbudene til de unge er helt konkret:</h6> 
 							<ul class="circle">
 								<li>Et ugentligt gruppemøde ledet af to frivillige</li>
 								<li>Individuelle samtaler</li>
@@ -87,7 +88,7 @@
 						</div>
 					</section>
 					<section>
-					<p class="title" data-section-title><a href="#">Frivillige Og Kurser</a></p>
+					<p class="title" data-section-title><a href="#">Frivillige og Kurser</a></p>
 					<div class="content" data-section-content>
 						<h5 class="subheader">Supervision og kurser til de frivillige gruppeledere</h5>
 						<p>De frivillige gruppelederes opgaver er at skabe tillid og tryghed i den samtalegruppe, de 2-3 timer om ugen har ansvaret for. <blockquote>”Jeg prøver at være ærlig og åben og møde de unge som en troværdig voksen"<cite>En frivillig gruppeleder</cite></blockquote> </p>
@@ -104,7 +105,7 @@
 					</div>
 					</section>
 			</div> <!-- end this ^ section container -->
-		</div> <!-- end this ^ large-7column --> 
+		</div> <!-- end this ^ large-12column --> 
 	</div> <!-- end row  -->
 
 			<div class="row">
