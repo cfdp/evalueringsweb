@@ -1,12 +1,12 @@
-<?php 
+		<?php 
 	include 'header.php';
 ?> 
-
 <div class="page-wrap">
 	<div class="row">
+
 		<div class="large-12 columns">
 			<div class="section-container auto" data-section="auto">
-					<section>
+					<section class="active">
 						<p class="title" data-section-title><a href="#">Værdigrundlaget</a></p>
 						<div class="content" data-section-content>
 							<h5 class="subheader">Værdigrundlaget for samtalegrupperne</h5>
@@ -80,46 +80,15 @@
 					<section>
 					<p class="title" data-section-title><a href="#">Video</a></p>
 					<div class="content" data-section-content>
-						<iframe width="420" height="315" src="//www.youtube.com/embed/UmLAw_xksqQ" frameborder="0" allowfullscreen></iframe>	
+						<iframe width="932" height="600" src="//www.youtube.com/embed/UmLAw_xksqQ" frameborder="0" allowfullscreen></iframe>	
 					</div>
 					</section>
-			</div> <!-- end this ^ section container  -->
-		</div> 
-		<!-- end this ^ large-12column -->
+			</div> <!-- end this ^ section container -->
+		</div> <!-- end this ^ large-12column --> 
 
-		<div class="large-12 columns">
-			<h2>Historik for Samtalegrupper</h2>
-			<h3 class="subheader">Et pusterum for udsatte unge</h3>
-				<ul class="large-block-grid-2">
-					<li>
-						<img src="img/vaeg.jpg"><br>
-						<cite id="ptext">Indgangspartiet til samtalegrupperne i Ungdomshuset i Odense</cite>
-					</li>				
-  					<li>
-  						<img src="img/vaerelse.jpg"><br>
-  						<cite id="ptext">Samtalegruppernes lokale i Odense</cite>
-  					</li>
-  			
-  				</ul>
-			<p>
-				’Samtalegrupper for unge’ i Odense er en selvejende institution med en historie, der løber tilbage til 1999. Siden 2001 har den været optaget i Landsforeningen ’Ungdommens Vel’. Fra 2010 til 2012 samarbejdede samtalegrupperne i Odense med samtalegrupper i København og på Frederiksberg. Da samtalegrupperne i hovedstaden er lukket, er der på denne side fokus på samtalegrupperne i Odense. De bor til leje i Ungdomshuset i det centrale Odense. Sekretariatet består af en deltidsansat leder og en projektleder. Projektlederen er samtidig gruppeleder af nogle af samtalegrupperne. For tiden er der tilknyttet 23 frivillige gruppeledere til samtalegrupperne. Tilbuddet er støttet økonomisk af Odense kommune, Satspuljemidler, fonde og legater. Ledelsen varetages overordnet af en bestyrelse.
-			</p>
-			
-		</div> <!-- end this large-12 ^ column -->
+	</div> <!-- end row-->
 
-	</div> <!-- end row-->  
-
-			<div class="row">
-				<div class="large-12 columns">
-				<h3 class="subheader">’Samtalegrupper for unge’ i årstal</h3> 
-				<img src="img/tidslinie.png" alt="tidslinie">
-					<blockquote>
-					”... og så en glad dag i maj gav Helsefonden de første penge - i maj 1999, og senere gav Odense kommune og Fyns Amt ...” <cite>En projektansvarlig</cite>
-					</blockquote>
-				</div> <!-- end this ^ column12 --> 
-			</div> <!-- end this ^ tidslinie row -->
-		</div>
-
+	</div> <!-- end page-wrap -->
 <?php 
 include 'footer.php';
 ?> 

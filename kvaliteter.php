@@ -6,39 +6,10 @@
 	<div class="row">
 
 		<div class="large-12 columns">
-			<h2>Hvad har samtalegrupperne været særligt gode til?</h2>
-			<p>Når de projektansvarlige, de frivillige gruppeledere og de unge bliver bedt om at beskrive deres umiddelbare følelser i forhold til samtalegrupperne og udtrykke det ved hjælp af modellervoks, kommer der udelukkende positive følelser frem og et stort fokus på medmenneskeligheden i grupperne:</p>
-
-				
-			<ul class="large-block-grid-3">
-				<li><h5 class="subheader"><img src="img/projektans.jpg">De projektansvarliges råd:</h5>
-				<p>Som projektansvarlig for samtalegrupper 		
-				bør man have et stort hjerterum, rummelighed	 
-				og samtidig være indstillet på at skulle samle	
-				trådene mellem de blødende og de hjælpende hjerter!</p></li>
-				
-  				<li><img src="img/deunge.jpg">
- 				<h5 class="subheader">De unge deltageres råd:</h5>
-				<p>Som deltager i en samtalegruppe skal man både
-				være parat til at modtage hjælp og hjælpe andre 	
-				i et fælles projekt. Man skal kunne lette sit 
-				hjerte og tale åbent og være med til at skabe et
-				rum med tryghed og omsorg.</p></li>
-
-  				<li><img src="img/frivillig.jpg">
-  				<h5 class="subheader">De frivillige gruppelederes råd:</h5>
-				<p>En frivillig gruppeleder skal have et kæmpestort, 
-				rummeligt hjerte, have favnen vidt åben til at modtage
-				deltagerne og så ellers holde mikrofonen for dem.</p></li>
-  			
-  			</ul>
-  		</div> <!-- end large-12 -->
-  		
-  		
-  				<div class="large-12 columns">
 				  	<div class="section-container auto" data-section>
-				 	<section class="active">
-				   		<p class="title" data-section-title><a href="#">Tillid</a></p>
+				 	<section>
+				   		<p class="title" data-section-title><a href="#">Tillid</a>
+				   		</p>
 				   		<div class="content" data-section-content>
 				      		<h5 class="subheader">- Til at skabe tryghed, tillid og åbenhed</h5>
 				      		<p>Til forskel fra mange af de andre støttemuligheder, deltagerne i samtalegrupperne har prøvet, så har samtalegrupperne en helt anden tryg ramme.</p>  
@@ -204,7 +175,39 @@
 					    </div>
 					  </section>
 					</div>
-  				</div><!-- end large-12 -->
+  				</div> <!-- <end large-12 --> 
+
+		<div class="large-12 columns">
+			<h2>Hvad har samtalegrupperne været særligt gode til?</h2>
+			<p>Når de projektansvarlige, de frivillige gruppeledere og de unge bliver bedt om at beskrive deres umiddelbare følelser i forhold til samtalegrupperne og udtrykke det ved hjælp af modellervoks, kommer der udelukkende positive følelser frem og et stort fokus på medmenneskeligheden i grupperne:</p>
+
+				
+			<ul class="large-block-grid-3">
+				<li><h5 class="subheader"><img src="img/projektans.jpg">De projektansvarliges råd:</h5>
+				<p>Som projektansvarlig for samtalegrupper 		
+				bør man have et stort hjerterum, rummelighed	 
+				og samtidig være indstillet på at skulle samle	
+				trådene mellem de blødende og de hjælpende hjerter!</p></li>
+				
+  				<li><img src="img/deunge.jpg">
+ 				<h5 class="subheader">De unge deltageres råd:</h5>
+				<p>Som deltager i en samtalegruppe skal man både
+				være parat til at modtage hjælp og hjælpe andre 	
+				i et fælles projekt. Man skal kunne lette sit 
+				hjerte og tale åbent og være med til at skabe et
+				rum med tryghed og omsorg.</p></li>
+
+  				<li><img src="img/frivillig.jpg">
+  				<h5 class="subheader">De frivillige gruppelederes råd:</h5>
+				<p>En frivillig gruppeleder skal have et kæmpestort, 
+				rummeligt hjerte, have favnen vidt åben til at modtage
+				deltagerne og så ellers holde mikrofonen for dem.</p></li>
+  			
+  			</ul>
+  		</div> <!-- end large-12 -->
+  		
+  		
+			
   			
 	</div>
 </div>

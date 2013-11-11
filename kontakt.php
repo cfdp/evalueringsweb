@@ -9,8 +9,8 @@
 			<h1>Kontakt os</h1>
 				<ul class="large-block-grid-3">
 				  	<li>
-				  	<p>	<strong>Projektansvarlig for <br>landsorganisation<br>
-				  		Ungdommens vel<br></strong>
+				  	<p>	<strong>Projektansvarlig for landsorganisation<br></strong>
+				  		Ungdommens vel<br>
 				  		Gitte Holmsgaard<br>
 				  		Højskolevej 3, Strib<br>
 				  		telefon: 3145 4511<br>
@@ -18,8 +18,8 @@
 					</p>
 					</li>
 				  	<li>
-				  	<p>	<strong>Projektansvarlig for Samtalegrupper<br> for unge - på Fyn</strong><br>
-				  		Kirsten Viese Madsen<br><strong>Projektleder</strong><br> Pia Christensen
+				  	<p>	<strong>Projektansvarlig for Samtalegrupper<br> for unge - på Fyn</strong> – Kirsten Viese Madsen<br>
+				  		<strong>Projektleder</strong> – Pia Christensen<br>
 						Ungdomshuset<br>
 						Nørregade 60, 2. sal <br>
 						5000 Odense <br>

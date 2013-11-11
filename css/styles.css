@@ -44,8 +44,8 @@ font-size: 14px;
 .footer, .page-wrap:after {
   /* .push must be the same height as footer */
   height: 142px; 
+  color: #999;
 }
-
 .slider-item {
 	width: 970px;
 	height: 310px;
@@ -54,6 +54,13 @@ font-size: 14px;
 ul {
 	font-weight: normal;
 	margin-left: 30px;
+}
+
+a.small {
+    font-size: 12px;
+}
+.foot {
+	font-size: 12px;
 }
 
 .section-container.auto > section > .title, .section-container.auto > .section > .title
@@ -107,3 +114,33 @@ line-height: 1.4em;
     border-bottom: dotted 0px #196177;
     color: #2ba6cb; 
 }
+
+/*.section-container.accordion > section > .title, .section-container.accordion > .section > .title
+{
+	font-family: 'arvo';
+	background-color: #DFF2F7;
+	cursor:pointer;
+	border: solid 1px;
+	border-color: #c1dde6;
+}
+
+.section-container.accordion > section > .title a, .section-container.accordion > .section > .title a
+{
+	padding: 0.9374em;
+	color: #333333;
+	font-size: 0.875em;
+	background: none;
+}
+
+.section-container.accordion > section > .title:hover, .section-container.accordion > .section > .title:hover
+{
+	background-color: #c1dde6;
+}
+.section-container.accordion > section > .content, .section-container.accordion > .section > .content
+{
+border: solid  1px;
+border-color: #c1dde6;
+}
+.section-container.accordion > section.active > .title, .section-container.accordion > .section.active > .title {
+background: #c1dde6;
+}*/

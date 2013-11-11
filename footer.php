@@ -4,10 +4,10 @@
 		<div class="large-12 columns">
 			<hr />
 			<div class="row">
-				<div class="large-2 columns">
-					<p>&copy; Ungdommens Vel</p>
+				<div class="large-4 columns foot">
+					<p>&copy; Ungdommens Vel - udarbejdet i samarbejde med <br>  Center for Digital Pædagogik</p>
 				</div>
-				<div class="large-10 columns">
+				<div class="large-8 columns">
 				<ul class="right inline-list">
 				<li><a href="samtale.php" class="small ">Samtalegrupper</a></li>
 				<li><a href="kvaliteter.php" class="small ">Kvaliteter</a></li>
