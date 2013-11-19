@@ -88,13 +88,9 @@
 		<!-- end this ^ large-12column -->
 
 		<div class="large-12 columns">
-			<h2>Historik for Samtalegrupper</h2>
-			<h3 class="subheader">Et pusterum for udsatte unge</h3>
-				<ul class="large-block-grid-2">
-					<li>
-						<img src="img/vaeg.jpg"><br>
-						<cite id="ptext">Indgangspartiet til samtalegrupperne i Ungdomshuset i Odense</cite>
-					</li>				
+			<h2>Et pusterum for udsatte unge</h2>
+			
+				<ul class="no-bullet">				
   					<li>
   						<img src="img/vaerelse.jpg"><br>
   						<cite id="ptext">Samtalegruppernes lokale i Odense</cite>

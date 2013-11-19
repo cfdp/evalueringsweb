@@ -28,7 +28,7 @@
 				<li><a href="kvaliteter.php">Kvaliteter</a></li>
 				<li><a href="udfordringer.php">Udfordringer</a></li>
 				<li><a href="goderaade.php">Gode Råd</a></li>
-				<li><a href="fremtidssikring.php">Fremtidssikring</a></li>
+				<li><a href="ideudvikling.php">Idéudvikling</a></li>
 				<li><a href="links.php">Relevante Link</a></li>
 				<li><a href="kontakt.php">Kontakt</a></li>
 			</ul>
