@@ -20,7 +20,7 @@
 	<!-- Header med logo og navigation -->
 	<div id="page-header" class="row">
 		<div class="large-3 columns">
-			<a href="http://evuv.cybhus.dk"><img src="img/logo.png"><!-- <h1>Evalueringsweb</h1> --></a>
+			<a href="http://evalueringsweb.ungdommens-vel.dk"><img src="img/logo.png"><!-- <h1>Evalueringsweb</h1> --></a>
 		</div>
 		<div class="large-9 columns">
 			<ul class="right inline-list">

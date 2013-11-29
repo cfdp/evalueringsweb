@@ -80,7 +80,7 @@
 					<section>
 					<p class="title" data-section-title><a href="#">Video</a></p>
 					<div class="content" data-section-content>
-						<iframe width="420" height="315" src="//www.youtube.com/embed/UmLAw_xksqQ" frameborder="0" allowfullscreen></iframe>	
+						<iframe width="560" height="315" src="//www.youtube.com/embed/KDq1vVUMNWM" frameborder="0" allowfullscreen></iframe>	
 					</div>
 					</section>
 			</div> <!-- end this ^ section container  -->
